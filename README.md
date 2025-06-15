@@ -6,5 +6,5 @@ A personal log of 100 days of coding challenges and learning covering:
 - Projects, bugs solved, and breakthroughs
 - Code snippets and brief notes
 
-📌 This repo documents my consistency journey toward becoming a job-ready software engineer.
+📌 This repo documents my consistent journey towards becoming a job-ready software engineer.
 
