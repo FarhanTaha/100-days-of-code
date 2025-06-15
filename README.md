@@ -1,2 +1,10 @@
-# 100-days-of-code
-Daily learning and coding log
+# 🏗️ 100 Days of Code
+
+A personal log of 100 days of coding challenges and learning covering:
+
+- Daily progress in Python, JavaScript, and web development
+- Projects, bugs solved, and breakthroughs
+- Code snippets and brief notes
+
+📌 This repo documents my consistency journey toward becoming a job-ready software engineer.
+
