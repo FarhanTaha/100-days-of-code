@@ -1,0 +1,16 @@
+[Person Info]
+name: Jahid
+age: 30
+city: Jessore
+
+[Product Info]
+id: SKU12345
+name: Wireless Mouse
+price: 1200
+in_stock: True
+
+[Student Grades]
+student: Samin
+math: 85
+science: 90
+english: 88

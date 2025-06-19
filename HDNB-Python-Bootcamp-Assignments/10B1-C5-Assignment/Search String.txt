@@ -1,0 +1,4 @@
+Python is a versatile programming language.
+It is widely used for web development, data analysis, and automation.
+Learning Python can open many doors in tech.
+Remember to practice every day!
