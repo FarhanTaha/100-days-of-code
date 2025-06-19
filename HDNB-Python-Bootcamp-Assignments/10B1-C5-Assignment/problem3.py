@@ -3,7 +3,7 @@
 # Open and read the file
 file = open("Search String.txt", "r")
 text = file.read()
-file.close()
+file.close() # close is important to free up resources
 
 text = text.lower()  # Convert to lowercase
 
