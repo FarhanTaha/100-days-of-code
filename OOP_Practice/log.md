@@ -15,5 +15,12 @@ This log tracks all code files I’ve uploaded to the `OOP_Practice` folder with
   Created a BankAccount class with attributes (account_holder, balance, transaction_history) and methods (deposit, withdraw, get_balance, show_transaction_history).  
   Implemented safeguards for insufficient funds and added a custom __str__ method for readable printing.
 
+## 📅 2025-06-24
+- ➕ `mood_playlist_generator.py`  
+  Created a basic Python project using OOP to suggest playlists based on user mood input.
+  Implemented the Playlist class with methods to set mood, generate songs, and display the playlist.
+  Practiced beginner-friendly class design and user interaction.
+
+---
  
 
